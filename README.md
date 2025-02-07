@@ -74,8 +74,8 @@ Dommages en Millions de dollars en fonction de la magnitude du séisme
 
 ## Membres du projet
 
-- Axel Brunel
-- Caroline Dorléans
-- Thierno Amadou Diallo
-- Maxime Emonnot
-- Manon Lacombe
+- **Axel Brunel**
+- **Caroline Dorléans**
+- **Thierno Amadou Diallo**
+- **Maxime Emonnot**
+- **Manon Lacombe**
