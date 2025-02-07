@@ -29,9 +29,8 @@ Note :  Ce dépôt se concentre exclusivement sur la partie prédiction des cons
 - [Kaggle: Global Sea Level | 1993 - 2021](https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021)
 - [Kaggle: CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country/data)
 - [Kaggle: Temperature of All Countries (1995-2020)](https://kaggle.com/datasets/subhamjain/temperature-of-all-countries-19952020)
-- [Kaggle: Dataset on Earthquakes -2150 BC -- 2023 AD around the world](hhttps://www.kaggle.com/datasets/bharathposa/earthquakes-from-2150bc-2023-ad-around-the-world)
+- [Kaggle: Dataset on Earthquakes -2150 BC -- 2023 AD around the world](https://www.kaggle.com/datasets/bharathposa/earthquakes-from-2150bc-2023-ad-around-the-world)
 - [ResearchGate: The Active Faults of Eurasia Database AFEAD)](https://www.researchgate.net/publication/354687605_The_Active_Faults_of_Eurasia_Database_AFEAD_v2021?channel=doi&linkId=6146fe9a3c6cb310697aa166&showFulltext=true)
-
 - [World Bank Data : Poverty headcount ratio at $2.15 a day](https://data.worldbank.org/indicator/SI.POV.DDAY)
 - [World Bank Data : Population density](https://data.worldbank.org/indicator/EN.POP.DNST)
 
